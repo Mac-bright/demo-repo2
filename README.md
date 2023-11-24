@@ -2,4 +2,4 @@
 
 ## git locally created folder
 
-something interesting
+interesting fact
